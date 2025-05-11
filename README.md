@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Originally a longtime (15+) music composer for games and film, now an enthusiastic frontend coder that has a slight crush on A.I.
+Originally a longtime (15+ years) music composer for games and film, now an enthusiastic frontend coder that has a slight crush on A.I.
 
 * 🌍  I'm based in Visalia
 * 🖥️  See my portfolio at [Portfolio](https://portfolio-vanilla-one.vercel.app/)
