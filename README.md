@@ -7,7 +7,7 @@ Frontend Developer
 Originally a longtime (15+ years) music composer for games and film, now an enthusiastic frontend coder that has a slight crush on A.I.
 
 * 🌍  I'm based in Visalia
-* 🖥️  See my portfolio at [Portfolio](https://portfolio-vanilla-one.vercel.app/)
+* 🖥️  See my portfolio at [Portfolio](https://coder-eta.vercel.app/)
 * ✉️  You can contact me at [jwandag@gmail.com](mailto:jwandag@gmail.com)
 * 🧠  I'm learning GSAP
 * 🤝  I'm open to collaborating on interesting stuff
